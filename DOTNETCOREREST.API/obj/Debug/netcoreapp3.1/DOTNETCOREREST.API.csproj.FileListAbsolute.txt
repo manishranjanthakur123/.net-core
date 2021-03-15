@@ -37,3 +37,5 @@
 /Users/manishranjan/Desktop/src/DOTNETCOREREST.API/obj/Debug/netcoreapp3.1/DOTNETCOREREST.API.csproj.CopyComplete
 /Users/manishranjan/Desktop/src/DOTNETCOREREST.API/bin/Debug/netcoreapp3.1/Humanizer.dll
 /Users/manishranjan/Desktop/src/DOTNETCOREREST.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/manishranjan/Desktop/src/DOTNETCOREREST.API/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/manishranjan/Desktop/src/DOTNETCOREREST.API/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
